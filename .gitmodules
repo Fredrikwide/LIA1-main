@@ -1,0 +1,6 @@
+[submodule "LIA1-server"]
+	path = LIA1-server
+	url = ./LIA1-server
+[submodule "LIA1-client"]
+	path = LIA1-client
+	url = ./LIA1-client
